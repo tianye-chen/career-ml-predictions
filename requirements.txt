@@ -3,6 +3,5 @@ pandas
 numpy
 scikit-learn
 fuzzywuzzy
-pickle
 colorama
 tensorflow
